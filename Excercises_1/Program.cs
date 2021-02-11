@@ -51,7 +51,6 @@
         public static string Encrypt(string word)
         {
             //Make a function that encrypts a given input with these steps:
-            //Input: "apple"
             //Step 1: Reverse the input
             //Step 2: Replace all vowels using the following chart:
             //a => 0
