@@ -14,15 +14,6 @@
             return default;
         }
 
-        public static string SmallerNum(string n1, string n2)
-        {
-            //Create a function that returns the smaller number.
-            //If both numbers tie, return either number.
-            //SmallerNum("21", "44") => "21"
-
-            return default;
-        }
-
         public static string Repetition(string txt, int n)
         {
             //Create a recursive function that takes two parameters and repeats the string n number of times. 

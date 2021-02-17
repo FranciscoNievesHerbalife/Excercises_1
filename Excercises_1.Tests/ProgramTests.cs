@@ -31,56 +31,6 @@ namespace Excercises_1.Tests
         //}
         #endregion
 
-        #region SmallerNum
-        //[TestMethod]
-        //public void SmallerNum_21_44()
-        //{
-        //    var result = Program.SmallerNum("21", "44");
-
-        //    Assert.AreEqual("21", result);
-        //}
-
-        //[TestMethod]
-        //public void SmallerNum_153_367()
-        //{
-        //    var result = Program.SmallerNum("153", "367");
-
-        //    Assert.AreEqual("153", result);
-        //}
-
-        //[TestMethod]
-        //public void SmallerNum_1500_16()
-        //{
-        //    var result = Program.SmallerNum("1500", "16");
-
-        //    Assert.AreEqual("16", result);
-        //}
-
-        //[TestMethod]
-        //public void SmallerNum_100_23()
-        //{
-        //    var result = Program.SmallerNum("100", "23");
-
-        //    Assert.AreEqual("23", result);
-        //}
-
-        //[TestMethod]
-        //public void SmallerNum_1500_1()
-        //{
-        //    var result = Program.SmallerNum("1500", "1");
-
-        //    Assert.AreEqual("1", result);
-        //}
-
-        //[TestMethod]
-        //public void SmallerNum_5_5()
-        //{
-        //    var result = Program.SmallerNum("5", "5");
-
-        //    Assert.AreEqual("5", result);
-        //}
-        #endregion
-
         #region Repetition
         //[TestMethod]
         //public void Repetition_soccer()
