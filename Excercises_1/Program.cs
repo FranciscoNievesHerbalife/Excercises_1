@@ -63,18 +63,5 @@
 
             return default;
         }
-
-        //Make a function to print first 15 prime numbers
-
-        //Make a function that calculates discount according to a given input following these rules:
-        //Input must be a membership level value from the following chart and a price:
-        //Bronze => discount 5%
-        //Silver => discount 10%
-        //Gold => discount 15%
-        //Platinum => discount = 25%
-        //Each membershiplevel should have its own class and implement the same interface with a method to calculate price with discount
-        //Depending on the membership level the function should create an instance of the class and calculate the price with discount
-        //If input does not match any membership level, original price should be returned
-        //DiscountedPrice(Bronze, 25) => 23.75
     }
 }
